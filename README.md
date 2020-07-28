@@ -9,10 +9,6 @@
 - Medium - [checkout](https://medium.com/@maryoh2002)
 - Velog - [checkout](https://https://velog.io/@maryoh2003)
 
-### Interest
-- Web Programming(JS, TS, React)
-- Backend(NodeJS, Django)
-
 
 <div align=center>
   
