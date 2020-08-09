@@ -9,6 +9,7 @@
 - Medium - [checkout](https://medium.com/@maryoh2002)
 - Velog - [checkout](https://https://velog.io/@maryoh2003)
 
+![maryoh2002's github stats](https://github-readme-stats.vercel.app/api?username=maryoh2003&theme=dracula&show_icons=true)
 
 <div align=center>
   
