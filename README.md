@@ -4,7 +4,10 @@
 
 </div>
 
+
+
 ![maryoh2002's github stats](https://github-readme-stats.vercel.app/api?username=maryoh2003&theme=dracula&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryoh2003&layout=compact)](https://github.com/maryoh2003)
 
 <div align=center>
   
