@@ -17,7 +17,7 @@
 
 ||이름|설명|진행|
 |---|---|---|---|
-|![](https://img.icons8.com/color/24/000000/javascript.png)|Javascript|자바스크립트를 사용해 여러 프로젝트를 진행 및 유지보수 |![70%](https://progress-bar.dev/70)|
+|![](https://img.icons8.com/color/24/000000/javascript.png)|Javascript|자바스크립트를 사용해 여러 프로젝트를 진행 및 유지보수 합니다|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/typescript.png)|Typescript|타입스크립트를 사용해 프로젝트를 진행 중입니다|![60%](https://progress-bar.dev/60)|
 |![](https://img.icons8.com/color/24/000000/add-database.png)|DB|관계형데이터베이스 환경을 설계 및 구현합니다|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/django.png)|Django|Django를 사용해 웹서버를 구현합니다|![40%](https://progress-bar.dev/40)|
