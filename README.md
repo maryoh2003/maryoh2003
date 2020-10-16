@@ -17,12 +17,12 @@
 
 ||이름|설명|진행|
 |---|---|---|---|
-|![](https://img.icons8.com/color/24/000000/javascript.png)|Javascript|자바스크립트를 사용해 개발 및 운영|![70%](https://progress-bar.dev/70)|
-|![](https://img.icons8.com/color/24/000000/typescript.png)|Typescript|타입스크립트를 사용한 프로젝트 진행|![60%](https://progress-bar.dev/60)|
-|![](https://img.icons8.com/color/24/000000/add-database.png)|DB|관계형데이터베이스 환경 구현|![70%](https://progress-bar.dev/70)|
-|![](https://img.icons8.com/color/24/000000/django.png)|Django|Django를 사용해 웹서버 구현|![40%](https://progress-bar.dev/40)|
-|![](https://img.icons8.com/color/24/000000/api.png)|API|REST API 제작|![65%](https://progress-bar.dev/65)|
-|![](https://img.icons8.com/color/24/000000/graphql.png)|GraphQL|GraphQL을 사용한 프로젝트 진행 경험|![25%](https://progress-bar.dev/25)|
-|![](https://img.icons8.com/color/24/000000/react-native.png)|ReactJS|React를 사용한 여러 프로젝트 진행|![65%](https://progress-bar.dev/65)|
-|![](https://img.icons8.com/color/24/000000/git.png)|Git&Github|Github를 사용해 팀원들과 협업 진행|![70%](https://progress-bar.dev/70)|
-|![](https://img.icons8.com/color/24/000000/docker.png)|Docker|Docker를 사용한 서비스 운영|![20%](https://progress-bar.dev/20)|
+|![](https://img.icons8.com/color/24/000000/javascript.png)|Javascript|자바스크립트를 사용해 여러 프로젝트를 진행했고 아직 배우는 중입니다|![70%](https://progress-bar.dev/70)|
+|![](https://img.icons8.com/color/24/000000/typescript.png)|Typescript|타입스크립트를 사용해 프로젝트를 진행 중입니다|![60%](https://progress-bar.dev/60)|
+|![](https://img.icons8.com/color/24/000000/add-database.png)|DB|관계형데이터베이스 환경을 설계 및 구현합니다|![70%](https://progress-bar.dev/70)|
+|![](https://img.icons8.com/color/24/000000/django.png)|Django|Django를 사용해 웹서버를 구현합니다|![40%](https://progress-bar.dev/40)|
+|![](https://img.icons8.com/color/24/000000/api.png)|API|REST API를 제작합니다|![65%](https://progress-bar.dev/65)|
+|![](https://img.icons8.com/color/24/000000/graphql.png)|GraphQL|GraphQL을 사용한 프로젝트를 진행합니다|![25%](https://progress-bar.dev/25)|
+|![](https://img.icons8.com/color/24/000000/react-native.png)|ReactJS|React를 사용한 여러 프론트엔드 프로젝트를 진행 및 유지보수합니다|![65%](https://progress-bar.dev/65)|
+|![](https://img.icons8.com/color/24/000000/git.png)|Git&Github|Github를 사용해 팀원들과 협업을 진행합니다|![70%](https://progress-bar.dev/70)|
+|![](https://img.icons8.com/color/24/000000/docker.png)|Docker|Docker를 사용해 서비스를 운영합니다|![20%](https://progress-bar.dev/20)|
