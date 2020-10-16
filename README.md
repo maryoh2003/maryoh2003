@@ -20,7 +20,7 @@
 |![](https://img.icons8.com/color/24/000000/javascript.png)|Javascript|자바스크립트를 사용해 개발 및 운영|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/typescript.png)|Typescript|타입스크립트를 사용한 프로젝트 진행|![60%](https://progress-bar.dev/60)|
 |![](https://img.icons8.com/color/24/000000/add-database.png)|DB|관계형데이터베이스 환경 구현|![70%](https://progress-bar.dev/70)|
-|![](https://img.icons8.com/color/24/000000/django.png)|Docker|Django를 사용해 웹서버 구현|![40%](https://progress-bar.dev/40)|
+|![](https://img.icons8.com/color/24/000000/django.png)|Django|Django를 사용해 웹서버 구현|![40%](https://progress-bar.dev/40)|
 |![](https://img.icons8.com/color/24/000000/api.png)|API|REST API 제작|![65%](https://progress-bar.dev/65)|
 |![](https://img.icons8.com/color/24/000000/graphql.png)|GraphQL|GraphQL을 사용한 프로젝트 진행 경험|![25%](https://progress-bar.dev/25)|
 |![](https://img.icons8.com/color/24/000000/react-native.png)|ReactJS|React를 사용한 여러 프로젝트 진행|![65%](https://progress-bar.dev/65)|
