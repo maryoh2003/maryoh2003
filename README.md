@@ -8,7 +8,6 @@
 
 ![maryoh2002's github stats](https://github-readme-stats.vercel.app/api?username=maryoh2003&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryoh2003&layout=compact)](https://github.com/maryoh2003/github-readme-stats)
 
 <div align=center>
   
